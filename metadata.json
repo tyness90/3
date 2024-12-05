@@ -1,5 +1,5 @@
 {
-    "name": "my_meme_coin",  // 토큰의 이름
+    "name": "my meme coin",  // 토큰의 이름
     "symbol": "MEME",     // 토큰의 심볼
     "description": "This is a meme coin on the Solana blockchain.",  // 토큰 설명
     "image": "https://github.com/tyness90/3/blob/main/openart-image__SWoGDzp_1732082223218_raw.png?raw=true"  // 이미지 URL (여기에 실제 이미지 URL을 넣습니다)
