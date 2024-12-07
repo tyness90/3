@@ -2,6 +2,6 @@
     "name": "my test token",  // 토큰의 이름
     "symbol": "TEST",     // 토큰의 심볼
     "description": "This is a meme coin on the Solana blockchain.",  // 토큰 설명
-    "image": "https://github.com/tyness90/3/blob/1aace8fc1b6cb4d852b9b5fb81a4010e885523c3/openart-image__SWoGDzp_1732082223218_raw.png"  // 이미지 URL (여기에 실제 이미지 URL을 넣습니다)
+    "image": "https://raw.githubusercontent.com/tyness90/3/49c28be2665e3e9dadbaf388c193a84b50c9034d/openart-image__SWoGDzp_1732082223218_raw.png"  // 이미지 URL (여기에 실제 이미지 URL을 넣습니다)
     
 }
