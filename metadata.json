@@ -2,6 +2,6 @@
     "name": "my test token",  // 토큰의 이름
     "symbol": "TEST",     // 토큰의 심볼
     "description": "This is a meme coin on the Solana blockchain.",  // 토큰 설명
-    "image": "https://i.imgur.com/UIGQXHF.png"  // 이미지 URL (여기에 실제 이미지 URL을 넣습니다)
+    "image": "ipfs://bafybeifogxh3a7sqpk76njkwhva6ofz5k5m7ilh76bedjuxo44ekbgngda"  // 이미지 URL (여기에 실제 이미지 URL을 넣습니다)
     
 }
